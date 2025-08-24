@@ -31,6 +31,8 @@ Gestalterische Änderungen: 	Sidebar-Menu komplett schwarz
 					Footer mit Logo
 					Gebäudeplan mit grauen Wrapper
 					Link-Icon bei Hero Carousel durch Carousel-Steuerung Next und Prev ersetzt.
+
+  Live-Preview: **https://benjaminjochims.github.io/JochimsBenjamin_IsabellaEdel-Museum/index.html**
 					
 
 
